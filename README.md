@@ -59,10 +59,6 @@ For any questions or inquiries, feel free to reach out to us via email at contac
 
 ---
 
-By using relevant keywords such as "Roblox Fisch Script," "automated fishing," and "Roblox enthusiasts," this README file should help improve its search engine optimization (SEO) and visibility on Google.
-
-Feel free to adjust the text to better suit your project's specific details and requirements!
-
 Roblox Fisch Script – Best Free Auto-Farm & Fishing Script
 
 🎣 Roblox Fisch Script – Auto-Fishing & Farm Script
